@@ -75,3 +75,6 @@ so our payload will be this: `${java:${env:FLAG}}` and the result will be:
 ![](https://user-images.githubusercontent.com/89252882/177057122-2f7f3f0f-2d9c-4427-bc51-676ac657ee16.png)
 
 and here is the flag: `CTF{d95528534d14dc6eb6aeb81c994ce8bd}`
+
+
+------------
