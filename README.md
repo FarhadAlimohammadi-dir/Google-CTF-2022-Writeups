@@ -5,7 +5,7 @@ This is my solutions for Google CTF 2022
 
 This is my first offical CTF (Capture The Flag) that will be held by big company like Google so i hope you will enjoy to my writeups.
 
-#LOG4J
+# LOG4J
 
 at the first as the challenge says, its about the log4j vulnerablity. if you dont know what is that, i recommend to see this video to have a idea how it works:
 
